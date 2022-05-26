@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AT.Models.Hardware.Hardware">
+    <Position X="7.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgCAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Models\Hardware\Hardware.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AT.Models.Hardware.Printer">
+    <Position X="10.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Hardware\Printer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AT.Models.Hardware.Router">
+    <Position X="4.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Hardware\Router.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AT.Models.Hardware.Server">
+    <Position X="6.25" Y="8.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAEAAAEAIAAAAAAAA=</HashCode>
+      <FileName>Models\Hardware\Server.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AT.Models.Hardware.Workstation">
+    <Position X="8.75" Y="9" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Models\Hardware\Workstation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AT.Models.Software.Command">
+    <Position X="13.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAQAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Models\Software\Command.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AT.Models.Software.Hypervisor">
+    <Position X="4.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Software\Hypervisor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AT.Models.Software.OS">
+    <Position X="6.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Models\Software\OS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AT.Models.Software.Script">
+    <Position X="11.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Software\Script.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AT.Models.Software.Service">
+    <Position X="15.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Software\Service.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AT.Models.Software.Software">
+    <Position X="9.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Software\Software.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AT.Models.Software.Utility">
+    <Position X="9" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Models\Software\Utility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="AT.Models.Enums.PackageManager">
+    <Position X="12.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Enums\PackageManager.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AT.Models.Enums.Shell">
+    <Position X="14.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Enums\Shell.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
