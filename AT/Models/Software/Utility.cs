@@ -2,10 +2,8 @@
 
 namespace AT.Models.Software
 {
-    public class Utility
+    public class Utility : Software
     {
-        public int Id { get; set; }
-        public string Name { get; set; }
         public PackageManager PackageManager {get;set;}
     }
 }

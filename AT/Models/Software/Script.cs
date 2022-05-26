@@ -1,9 +1,8 @@
 ﻿namespace AT.Models.Software
 {
-    public class Script
+    public class Script : Software
     {
-        public int Id { get; set; }
-        public string Name { get; set; }
+
         public List<Service> Services { get; set; }
 
     }

@@ -1,8 +1,7 @@
 ﻿namespace AT.Models.Software
 {
-    public class Hypervisor
+    public class Hypervisor : Software
     {
-        public int Id { get; set; }
-        public string Name { get; set; }
+
     }
 }
