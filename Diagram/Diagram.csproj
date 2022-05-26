@@ -41,20 +41,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Models\Enums\PackageManager.cs" />
-    <Compile Include="Models\Enums\Shell.cs" />
-    <Compile Include="Models\Hardware\Hardware.cs" />
-    <Compile Include="Models\Hardware\Printer.cs" />
-    <Compile Include="Models\Hardware\Router.cs" />
-    <Compile Include="Models\Hardware\Server.cs" />
-    <Compile Include="Models\Hardware\Workstation.cs" />
-    <Compile Include="Models\Software\Command.cs" />
-    <Compile Include="Models\Software\Hypervisor.cs" />
+    <Compile Include="Models\Device.cs" />
+    <Compile Include="Models\Device\Сomputer.cs" />
+    <Compile Include="Models\Software.cs" />
     <Compile Include="Models\Software\OS.cs" />
-    <Compile Include="Models\Software\Script.cs" />
-    <Compile Include="Models\Software\Service.cs" />
-    <Compile Include="Models\Software\Software.cs" />
-    <Compile Include="Models\Software\Utility.cs" />
+    <Compile Include="Models\Software\PackageManager.cs" />
+    <Compile Include="Models\Software\Shell.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

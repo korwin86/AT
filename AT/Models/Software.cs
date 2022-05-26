@@ -1,4 +1,4 @@
-﻿namespace AT.Models.Software
+﻿namespace AT.Models
 {
     public class Software
     {
