@@ -1,6 +1,6 @@
 ﻿namespace AT.Models.Hardware
 {
-    public class Router : Hardware
+    public class Router : Device
     {
     }
 }

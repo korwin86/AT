@@ -1,6 +1,6 @@
 ﻿namespace AT.Models.Hardware
 {
-    public class Printer : Hardware
+    public class Printer : Device
     {
 
     }

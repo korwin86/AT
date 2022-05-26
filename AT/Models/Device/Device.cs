@@ -2,7 +2,7 @@
 
 namespace AT.Models.Hardware
 {
-    public class Hardware
+    public class Device
     {
         public int Id { get; set; }
         public string Name { get; set; }

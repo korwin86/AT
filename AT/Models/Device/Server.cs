@@ -2,7 +2,7 @@
 
 namespace AT.Models.Hardware
 {
-    public class Server : Hardware
+    public class Server : Device
     {
         public OS OperatingSystem { get; set; }
         public string? ManagementPort { get; set; }
